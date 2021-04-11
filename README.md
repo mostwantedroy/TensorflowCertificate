@@ -1,6 +1,6 @@
 # TensorflowCertificate
 
-<img src="https://github.com/radiantprism/TensorflowCertificate/blob/master/tensorflow certificate.PNG">
+<img src="https://github.com/radiantprism/TensorflowCertificate/blob/main/tensorflow%20certificate.PNG">
 
 준비기간 : 2020/10 ~ 2021/01  
 공부하게 된 계기 : Deep Learning의 이론과 활용 가능한 분야를 생각해보기 위해  
